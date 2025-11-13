@@ -35,5 +35,7 @@ The Healthcare Dataset Analysis Project focuses on exploring research funding, d
 ## Additional Info
 
 **Developed By:** Swetha K
-**Contact:** (https://www.linkedin.com/in/swethaK2002/)
+
+**Contact:** https://www.linkedin.com/in/swethaK2002/
+
 **Use Case:** Ideal for data visualization learners, healthcare analysts, and Tableau portfolio projects.
